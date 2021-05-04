@@ -1,0 +1,7 @@
+total:
+  name: total
+  in: query
+  required: false
+  schema:
+    type: boolean
+  description: 'Determines if the total count will be calculated and included in the response. '

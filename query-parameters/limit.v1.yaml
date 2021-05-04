@@ -1,0 +1,8 @@
+limit:
+  name: limit
+  in: query
+  schema:
+    type: integer
+    example: 20
+    minimum: 1
+  description: Defines how many items to return.

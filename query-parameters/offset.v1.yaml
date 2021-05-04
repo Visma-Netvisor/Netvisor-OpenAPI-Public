@@ -1,0 +1,9 @@
+offset:
+  name: offset
+  in: query
+  required: false
+  schema:
+    type: integer
+    example: 0
+    minimum: 0
+  description: Defines the position to return the results from.
