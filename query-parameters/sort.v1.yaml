@@ -1,0 +1,7 @@
+sort:
+  name: sort
+  in: query
+  required: false
+  schema:
+    type: string
+  description: 'Comma-separated list of fields that defines the sort order. Sort direction can be controlled with prefixes: `+` (ascending) or `-` (descending).'
