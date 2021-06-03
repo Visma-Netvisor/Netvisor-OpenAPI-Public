@@ -1,7 +1,5 @@
-# This model is deprecated. Use problem-details-response instead.
-title: problem-details
+title: problem-details-response
 type: object
-deprecated: true
 x-examples:
   validation-error-example:
     type: 'about:blank'
