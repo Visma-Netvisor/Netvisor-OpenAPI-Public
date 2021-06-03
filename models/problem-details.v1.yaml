@@ -1,4 +1,4 @@
-title: problem-details
+title: problem-details-response
 type: object
 x-examples:
   validation-error-example:
